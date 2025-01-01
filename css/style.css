@@ -1,0 +1,304 @@
+.navbar ul {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	padding: 0px 5px;
+	border: 2px solid #EFB922;
+	/* 2px border */
+}
+
+.navbar ul a {
+	color: white;
+	text-decoration: none;
+	margin: 0px 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	/* Regular */
+}
+
+.navbar-nav>li>a:hover {
+	color: wheat;
+	text-decoration: none;
+	margin: 0 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	/* Regular */
+}
+
+.home1 {
+	height: 95vh;
+	background-image: url(../Image/BG1.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.boxhome {
+	padding-top: 150px;
+	justify-content: center;
+}
+
+.box {
+	border: 2px solid #EFB922;
+}
+
+.header {
+	background-color: #EFB922;
+	text-align: center;
+	padding: 5px 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.body {
+	text-align: center;
+	color: white;
+	padding: 5px 0px;
+}
+
+.texthome {
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.menu {
+	background-image: url(../Image/BGC.png);
+	background-size: cover;
+	background-position: center;
+	height: auto;
+	/* Adjust height as needed */
+}
+
+.text {
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 30pt;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.image1 {
+	padding-top: 25px;
+	text-align: center;
+}
+
+.table {
+	width: 100%;
+	border: 3px solid #f8d21a;
+}
+
+.table th {
+	font-size: 25pt;
+	background-color: #f8d21a;
+	color: black;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+}
+
+.table td {
+	color: white;
+	text-align: left;
+	border: 0px;
+	padding: 5px 5px;
+	font-size: 12pt;
+	background-color: transparent;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+.image2 {
+	padding-top: 25px;
+	text-align: center;
+}
+
+.image3 {
+	padding-top: 25px;
+	text-align: center;
+}
+
+.menu1 {
+	min-height: auto;
+	background-image: url(../Image/BGC3.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.m1image1 {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.m1text1 {
+	color: #EFB922;
+	text-align: center;
+	padding-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+}
+
+.button1>a>button {
+	background: #EFB922;
+	padding: 5px 35px;
+	border: 1px #EFB922;
+	font-size: 12pt;
+	color: black;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.button1>a>button:hover {
+	background-color: #03A4ED;
+	border: 1px #03A4ED;
+	color: white;
+}
+
+.m1image2 {
+	padding-top: 25px;
+	text-align: center;
+}
+
+.m1text2 {
+	padding-top: 20px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.menu2 {
+	min-height: auto;
+	background-image: url(../Image/BGT-4.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.menu2image1 {
+	text-align: center;
+	padding-top: 25px;
+}
+
+.menu2text {
+	color: white;
+	text-align: justify-all;
+	padding-top: 35pt;
+}
+
+.menu2image2 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.menu3 {
+	min-height: auto;
+	background-image: url(../Image/BGC3.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.imagemenu3 {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.menu4 {
+	min-height: auto;
+	background-image: url(../Image/BGT-4.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.textm4 {
+	text-align: justify-all;
+	color: white;
+	padding-top: 50px;
+	font-size: 15pt;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+.imagem4 {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.footer {
+	min-height: auto;
+	background-color: #212121;
+	background-position: center;
+	background-size: cover;
+}
+
+.foot-image {
+	padding-top: 35px;
+	text-align: center;
+}
+
+.foot-text1 {
+	color: #D9A820;
+	padding-top: 20px;
+}
+
+.boxfooter {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.footer-text2 {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.footer-text2 li {
+	color: white;
+	list-style: none;
+	font-size: 12pt;
+}
+
+.footer-text3 {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.footer-text3 li {
+	color: white;
+	list-style: none;
+	font-size: 12pt;
+}
+
+.footer-text4 {
+	color: white;
+	padding-top: 50px;
+	text-align: left;
+	padding-left: 15px;
+}
+
+.fontawsome {
+	text-align: right;
+	padding-right: 15px;
+	padding-top: 50px;
+	color: #EFB922;
+	font-size: 15px;
+}
+
+.pt-20 {
+	padding-top: 20px;
+}
+
+.pt-25 {
+	padding-top: 25px;
+}
+
+.pt-50 {
+	padding-top: 50px;
+}
+
+.pt-75 {
+	padding-top: 75px;
+}
+
+.pt-100 {
+	padding-top: 100px;
+}
+
+.pt-150 {
+	padding-top: 150px;
+}
